@@ -1,3 +1,4 @@
+LOCAL
 # merge_conflits
 
 quelqueslignesdanslereadme 
