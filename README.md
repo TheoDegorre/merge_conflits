@@ -1,1 +1,8 @@
 # merge_conflits
+
+quelqueslignesdanslereadme 
+quelqueslignesdanslereadme
+quelqueslignesdanslereadme
+quelqueslignesdanslereadme
+quelqueslignesdanslereadme
+
